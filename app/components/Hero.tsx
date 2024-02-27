@@ -19,7 +19,7 @@ const Hero = () => {
             </div>
             <div className=' mt-8 tzz:mt-0 rounded-sm 2xl:col-span-7 md:flex md:items-center md:justify-center tzz:inline-block'>
                 <Image src="/hero/imagep1.jpg" alt='pic' height={132} width={132} className='h-[280px] w-[425px] faz:h-[400px] faz:w-[495px] pso:h-[450px] pso:w-[540px] sm:w-[750px] tzz:w-[430px] tzz:hidden' />
-                <Image src="/hero/yeh wali.png" alt='pic' height={600} width={600} className='hidden tzz:flex tzz:w-[740px] tzz:mt-0 xl:ml-8 xl:w-[1100px] xl:-mt-16 lg:mt-0 2xl:-mt-28 -mt-20 2xl:flex 2xl:w-[1000px] md:ml-10' />
+                <Image src="/hero/yeh waliiiii.png" alt='pic' height={600} width={600} className='hidden tzz:flex tzz:w-[740px] tzz:mt-0 xl:ml-8 xl:w-[1100px] xl:-mt-16 lg:mt-0 2xl:-mt-28 -mt-20 2xl:flex 2xl:w-[1000px] md:ml-10' />
                 
             </div>
           </div>

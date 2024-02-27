@@ -35,7 +35,7 @@ const MoreBelow = () => {
         <div>
             <div className="bg-pic1 bg-fixed bg-no-repeat bg-cover h-[600px] w-full"/>
         <div className='bg-[#79DFC1]'>
-            <div className='py-6 px-4 pb-4 tzz:grid tzz:grid-cols-3 mx-auto '>
+            <div className='py-16 px-4 tzz:grid tzz:grid-cols-3 mx-auto '>
 
 
                 {
